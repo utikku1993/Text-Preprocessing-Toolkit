@@ -1,0 +1,3 @@
+text_processing_pipeline:
+    - lowercase_text
+    - tokenize_text
